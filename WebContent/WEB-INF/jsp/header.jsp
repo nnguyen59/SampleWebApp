@@ -67,9 +67,7 @@
 	<input type="submit" value="Product " class="btn btn-default btn-lg"/>
 </form>
 
-<form action="newspringstudent.jsp" method="get">
-	<input type="submit" value="Add New Product" class="btn btn-default btn-lg">
-</form>   
+
 
 	
 					
